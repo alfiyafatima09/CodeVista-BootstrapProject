@@ -17,6 +17,8 @@ CodeVista is designed as a beginner-friendly project showcasing the usage of Boo
 - **Bootstrap:** Utilized for creating responsive components and layouts.
 - **HTML, CSS, JavaScript:** The core technologies driving the project's functionality and design.
 
+## Link
+[CodeVista](https://alfiyafatima09.github.io/CodeVista-BootstrapProject/)
 ## Video
 [CodeVista](Demo-video.mp4)
 
